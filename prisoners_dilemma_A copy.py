@@ -1,7 +1,7 @@
 from __future__ import print_function
 
 ''' 
-This is the Master!
+This is the Master! Now I'm starting to see!
 PrisonerDilemma.py allows hard-coding different strategies
 for the Iterative Prisoners Dilemma, the canonical game of game-theory.
 Each strategy plays 100 to 200 rounds against each other strategy.
